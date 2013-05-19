@@ -1,0 +1,6 @@
+NFC AutoMusic (Android 4.2, Jelly Bean), licensed under GPLv3.
+
+Simple NFC application for playing music while the phone is near a NFC tag,
+it also sets the media volume to max value.
+
+This is a simple PoC and can be unstable.
