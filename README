@@ -4,3 +4,5 @@ Simple NFC application for playing music while the phone is near a NFC tag,
 it also sets the media volume to max value.
 
 This is a simple PoC and can be unstable.
+
+You may have to use the app "Media Button Router" to make it work.

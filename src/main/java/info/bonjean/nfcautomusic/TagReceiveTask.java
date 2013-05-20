@@ -114,6 +114,7 @@ public class TagReceiveTask extends AsyncTask<Void, Void, Void> {
 		restoreVolume();
 		if (audioManager.isMusicActive())
 			togglePlayPause();
+		activity.finish();
 		return null;
 	}
 }
